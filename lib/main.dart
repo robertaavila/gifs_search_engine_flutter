@@ -5,6 +5,7 @@ import 'UI/gif_page.dart';
 
 void main() {
   runApp(MaterialApp(
+    //funçao main acessa a pagina home_page
     home: HomePage(),
     theme: ThemeData(hintColor: Colors.white),
   ));
