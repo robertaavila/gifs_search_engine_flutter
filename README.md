@@ -1,16 +1,24 @@
-# gif_search_engine
+# Giphy search app
 
-A new Flutter project.
+Application developed with Flutter that uses the Giphy API to search, display and share gifs.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Install Flutter in your computer.
 
-A few resources to get you started if this is your first Flutter project:
+Download the project, open it with Android Studio.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Usage
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to project root and execute the following command in console to get the required dependencies:
+
+flutter pub get
+
+After that, build and run the app. Use an emulator or cell phone to view the app working.
+
+## Contributing
+Pull requests and comments are welcome.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
